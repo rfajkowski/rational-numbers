@@ -1,0 +1,13 @@
+E:\university\SandP3\coursework\coursework-one-rfajkowski\RationalNumbers\RationalNumbers\bin\Debug\netcoreapp3.1\RationalNumbers.exe
+E:\university\SandP3\coursework\coursework-one-rfajkowski\RationalNumbers\RationalNumbers\bin\Debug\netcoreapp3.1\RationalNumbers.deps.json
+E:\university\SandP3\coursework\coursework-one-rfajkowski\RationalNumbers\RationalNumbers\bin\Debug\netcoreapp3.1\RationalNumbers.runtimeconfig.json
+E:\university\SandP3\coursework\coursework-one-rfajkowski\RationalNumbers\RationalNumbers\bin\Debug\netcoreapp3.1\RationalNumbers.runtimeconfig.dev.json
+E:\university\SandP3\coursework\coursework-one-rfajkowski\RationalNumbers\RationalNumbers\bin\Debug\netcoreapp3.1\RationalNumbers.dll
+E:\university\SandP3\coursework\coursework-one-rfajkowski\RationalNumbers\RationalNumbers\bin\Debug\netcoreapp3.1\RationalNumbers.pdb
+E:\university\SandP3\coursework\coursework-one-rfajkowski\RationalNumbers\RationalNumbers\obj\Debug\netcoreapp3.1\RationalNumbers.AssemblyInfoInputs.cache
+E:\university\SandP3\coursework\coursework-one-rfajkowski\RationalNumbers\RationalNumbers\obj\Debug\netcoreapp3.1\RationalNumbers.AssemblyInfo.cs
+E:\university\SandP3\coursework\coursework-one-rfajkowski\RationalNumbers\RationalNumbers\obj\Debug\netcoreapp3.1\RationalNumbers.dll
+E:\university\SandP3\coursework\coursework-one-rfajkowski\RationalNumbers\RationalNumbers\obj\Debug\netcoreapp3.1\RationalNumbers.pdb
+E:\university\SandP3\coursework\coursework-one-rfajkowski\RationalNumbers\RationalNumbers\obj\Debug\netcoreapp3.1\RationalNumbers.csprojAssemblyReference.cache
+E:\university\SandP3\coursework\coursework-one-rfajkowski\RationalNumbers\RationalNumbers\obj\Debug\netcoreapp3.1\RationalNumbers.csproj.CoreCompileInputs.cache
+E:\university\SandP3\coursework\coursework-one-rfajkowski\RationalNumbers\RationalNumbers\obj\Debug\netcoreapp3.1\RationalNumbers.genruntimeconfig.cache

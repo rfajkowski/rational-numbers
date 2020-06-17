@@ -1,2 +1,2 @@
-# rational-numbers
-Example implementation of immutable rational numbers class.
+# Rational-numbers
+Example implementation of immutable rational number class.
